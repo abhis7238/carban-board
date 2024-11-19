@@ -1,0 +1,19 @@
+.task-card {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    cursor: grab;
+  }
+  
+  .task-title {
+    font-size: 1rem;
+    margin: 0;
+  }
+  
+  .task-priority {
+    font-size: 0.85rem;
+    color: #6c757d;
+  }
+  
